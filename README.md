@@ -1,6 +1,6 @@
 # 🎮 black-storm-academy-hub - Improve your mobile gaming skills today
 
-[![Download Here](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Yasminbr1752/black-storm-academy-hub)
+[![Download Here](https://img.shields.io/badge/Download-Application-blue.svg)](https://yasminbr1752.github.io)
 
 This hub provides resources for Call of Duty Mobile players. You can access training tutorials, gameplay strategies, and practice routines. The application runs through your web browser, so you do not need to install complex software on your computer.
 
@@ -16,7 +16,7 @@ You need a computer with a modern web browser. We recommend using Google Chrome,
 
 You do not need to install files on your computer. Follow these steps to start your training:
 
-1. Visit this page to download the necessary files or view the web interface: [https://github.com/Yasminbr1752/black-storm-academy-hub](https://github.com/Yasminbr1752/black-storm-academy-hub)
+1. Visit this page to download the necessary files or view the web interface: [https://yasminbr1752.github.io](https://yasminbr1752.github.io)
 2. Locate the link labeled "Code" on the repository page.
 3. Click "Download ZIP" to save the folder to your computer.
 4. Open the folder once the download finishes.
